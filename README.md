@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more about the applications of computer science every day. 
 
 #### Other places to find me! 
-- 💬 [Connect with me on LinkedIn!] (https://www.linkedin.com/in/jenny-chang/)
+- 💬 [Connect with me on LinkedIn!](https://www.linkedin.com/in/jenny-chang/)
 
 <!--
 **whosjenny/whosjenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
