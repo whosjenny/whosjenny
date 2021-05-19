@@ -4,10 +4,10 @@
 - 🔭 Currently working on NASA'S L'SPACE Mission Concept Academy developing my teamworking abilities and research skills. 
 - 🌱 Learning more about the applications of computer science every day. 
 
-#### 💬 Other places to find me! 
+#### Other places to find me! 
 - ⚡ [Connect with me on LinkedIn!](https://www.linkedin.com/in/jenny-chang/)
 
-#### ❤️ What else do I love?
+#### What else do I love?
 Painting 🎨 Typing sounds ⌨️ Hot tea 🍵
 <!--
 **whosjenny/whosjenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
