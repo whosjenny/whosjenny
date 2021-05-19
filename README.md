@@ -1,11 +1,14 @@
 ### 👋 Hello! 
 #### I'm Jenny Chang (she/her), a student at UMD College Park with a graduation date of spring 2024.
-- 🔭 I’m currently working on NASA'S L'SPACE Mission Concept Academy developing my teamworking abilities and research skills. 
-- 🌱 I’m currently learning more about the applications of computer science every day. 
+- 🖊️ I am a passionate student and aspiring developer!
+- 🔭 Currently working on NASA'S L'SPACE Mission Concept Academy developing my teamworking abilities and research skills. 
+- 🌱 Learning more about the applications of computer science every day. 
 
-#### Other places to find me! 
-- 💬 [Connect with me on LinkedIn!](https://www.linkedin.com/in/jenny-chang/)
+#### 💬 Other places to find me! 
+- ⚡ [Connect with me on LinkedIn!](https://www.linkedin.com/in/jenny-chang/)
 
+#### ❤️ What else do I love?
+Painting 🎨 Typing sounds ⌨️ Hot tea 🍵
 <!--
 **whosjenny/whosjenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
