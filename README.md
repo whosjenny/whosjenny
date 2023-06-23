@@ -1,25 +1,13 @@
-### 👋 Hello! 
-#### I'm Jenny Chang (she/her), a student at UMD College Park with a graduation date of spring 2024.
-- 🖊️ I am a passionate student and aspiring developer!
-- 🔭 Currently working on NASA'S L'SPACE Mission Concept Academy developing my teamworking abilities and research skills. 
-- 🌱 Learning more about the applications of computer science every day. 
+👋 Hello! I'm Jenny Chang (she/her), a computer science student @ UMD College Park.
 
-#### Other places to find me! 
-- ⚡ [Connect with me on LinkedIn!](https://www.linkedin.com/in/jenny-chang/)
+🚀 What am I up to now? 
+‣ I love problem solving, which is why I'm studying computer science! I hope to be able to use technology to improve the world around me. 
+‣ I'm super passionate about diversity and inclusion, particularly regarding women involved in STEM!
+‣ Of course, every day I am learning more about the applications of computer science as I pursue my passions. 
 
-#### What else do I love?
-Painting 🎨 Typing sounds ⌨️ Hot tea 🍵
-<!--
-**whosjenny/whosjenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 What are my goals? 
+‣ Ultimately, I want to see the world become a better place for our future generations. To me, this means creating and improving technologies for future generations to utilize. 
+‣ As always, I hope to keep learning new things every day and become the best version of myself. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ What else do I love? 
+Reading 📚 Typing sounds ⌨️ Hot tea 🍵
